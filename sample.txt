@@ -1,0 +1,5 @@
+1) Kharadi WMG Apps configuration and connectivity status 
+2) KK Hosur road BISP and other connectivity status 
+3) DNS and DRA configuration status for all sites 
+4) Initiate all sites integration 
+5) 
